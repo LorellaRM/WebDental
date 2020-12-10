@@ -2,7 +2,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
 
 <p align="center">
-<a href="https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b"><img src="https://github.com/4GeeksAcademy/react-hello-webapp/blob/master/src/img/how-to.png?raw=true" /></a>
+<img src="docs/Front_1.png" height="400px" /><img src="docs/Front_2.png" height="400px" /><img src="docs/Front_3.png" height="400px" />
 </p>
 
 
